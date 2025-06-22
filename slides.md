@@ -37,13 +37,13 @@ layout: intro
 layout: intro
 ---
 
-**Nathan Castelein**
+**Thomas Ployon**
 <br/>
 
 <ul>
     <li>Développeur</li>
-    <li>Cofondateur de Shodo Lille</li>
-    <li><a target="_blank" href='https://bento.me/nathancastelein' title="Site web de Nathan - lien externe">https://bento.me/nathancastelein</a></li>
+    <li>Cofondateur de Shodo Rennes</li>
+    <li><a target="_blank" href='https://www.linkedin.com/in/thomas-ployon-8bb9a2176/' title="Linkedin de Thomas - lien externe">https://www.linkedin.com/in/thomas-ployon-8bb9a2176/</a></li>
 </ul>
 
 ---
